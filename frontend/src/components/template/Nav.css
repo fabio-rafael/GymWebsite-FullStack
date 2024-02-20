@@ -1,0 +1,34 @@
+.navbar {
+  max-width: auto;
+  height: var(--header-height);
+  margin:0;
+  margin-bottom: 0 !important;
+}
+
+.navbar-brand {
+  padding: 0;
+}
+
+.navbar-brand img {
+  max-height: var(--header-height);
+  max-width: auto;
+  padding-left: 60px;
+  
+}
+
+.navbar-nav > li > a {
+  line-height: var(--header-height); 
+  padding: 0;
+  color: #fff; /* Defina a cor do texto padrão */
+  transition: color 0.3s; /* Adiciona uma transição suave para a cor do texto */
+}
+
+.navbar-nav > li {
+  margin-right: 50px; 
+}
+
+/* Adiciona cor mais clara ao hover */
+.navbar-nav > li > a:hover {
+  color: #b3b3b3; /* Defina a cor do texto ao realizar hover */
+}
+
