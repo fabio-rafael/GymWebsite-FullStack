@@ -30,4 +30,4 @@ O projeto está agora disponível em http://localhost:3000. Registre uma conta, 
 
 Este projeto foi desenvolvido como uma prova de conceito, e recomenda-se a implementação de medidas adicionais de segurança e autenticação em um ambiente de produção.
 
-![Screenshot da Página de Login]([https://exemplo.com/screenshot-login.png](https://github.com/fabio-rafael/GymWebsite-FullStack/blob/main/Screenshots%20Frontend/Homepage.jpg)https://github.com/fabio-rafael/GymWebsite-FullStack/blob/main/Screenshots%20Frontend/Homepage.jpg)
+![Screenshot da Página de Login](https://exemplo.com/screenshot-login.png](https://github.com/fabio-rafael/GymWebsite-FullStack/blob/main/Screenshots%20Frontend/Homepage.jpg)https://github.com/fabio-rafael/GymWebsite-FullStack/blob/main/Screenshots%20Frontend/Homepage.jpg)
