@@ -49,7 +49,7 @@ const Membros = () => {
 
   return (
     <div className="membros">
-      <h1>Membros Registrados</h1>
+      <h1>Membros Registados</h1>
       <table>
         <thead>
           <tr>
