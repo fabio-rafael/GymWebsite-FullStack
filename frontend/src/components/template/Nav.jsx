@@ -27,8 +27,8 @@ const Nav = () => (
           </a>
         </li>
         <li>
-          <a href="/contatos">
-            <span className="glyphicon glyphicon-earphone"></span> Contatos
+          <a href="/contactos">
+            <span className="glyphicon glyphicon-earphone"></span> Contactos
           </a>
         </li>
         <li>

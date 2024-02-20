@@ -3,7 +3,7 @@ import { Route, Routes, Navigate } from "react-router-dom";
 import "./App.css";
 import Home from "./pages/Home/Home";
 import Planos from "./pages/Planos/Planos";
-import Contatos from "./pages/Contatos/Contatos";
+import Contactos from "./pages/Contactos/Contactos";
 import Registo from "./pages/Registo/Registo";
 import Login from "./pages/Login/Login";
 import Sobre from "./pages/Sobre/Sobre";
@@ -15,7 +15,7 @@ const AppRoutes = () => (
     <Route path="/home" element={<Home />} />
     <Route path="/sobre" element={<Sobre />} />
     <Route path="/planos" element={<Planos />} />
-    <Route path="/contatos" element={<Contatos />} />
+    <Route path="/contactos" element={<Contactos />} />
     <Route path="/registo" element={<Registo />} />
     <Route path="/login" element={<Login />} />
     <Route path="/membros" element={<Membros />} />

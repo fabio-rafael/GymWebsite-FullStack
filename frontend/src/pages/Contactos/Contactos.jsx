@@ -1,16 +1,16 @@
 import React from "react";
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
-import "./Contatos.css";
+import "./Contactos.css";
 
-function Contatos() {
+function Contactos() {
   // Coordenadas fictícias no meio do oceano
   const oceanLocation = [32, -8];
 
   return (
-    <div className="contatos">
-      <div className="contatos-info">
-        <h2>Informações de Contato</h2>
+    <div className="contactos">
+      <div className="contactos-info">
+        <h2>Informações de Contacto</h2>
         <p>Email: exemplo@dominio.com</p>
         <p>Telefone: (+351) 123-456-789</p>
         <p>Endereço: Rua 1, 12345-678</p>
@@ -39,4 +39,4 @@ function Contatos() {
   );
 }
 
-export default Contatos;
+export default Contactos;
