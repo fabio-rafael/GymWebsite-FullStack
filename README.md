@@ -56,7 +56,7 @@ Este projeto foi desenvolvido como uma prova de conceito, e recomenda-se a imple
 ![Planos](Screenshots%20Frontend/Planos.png)
 
 ### Contactos
-![Contactos](Screenshots%20Frontend/Contatos.png)
+![Contactos](Screenshots%20Frontend/Contactos.png)
 
 ### Registo
 ![Registo](Screenshots%20Frontend/Registo.png)
@@ -65,4 +65,4 @@ Este projeto foi desenvolvido como uma prova de conceito, e recomenda-se a imple
 ![Página de Login](Screenshots%20Frontend/Login.png)
 
 ### Membros
-![Membros](Screenshots%20Frontend/Membros.png)
+![Membros](Screenshots%20Frontend/Membros%20Registados.png)
