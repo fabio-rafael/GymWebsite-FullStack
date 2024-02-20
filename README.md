@@ -33,4 +33,4 @@ Este projeto foi desenvolvido como uma prova de conceito, e recomenda-se a imple
 ## Screenshots
 
 ### Página de Login
-![Página de Login](frontend/Screenshots_Frontend/Login.png)
+![Página de Login](Screenshots_Frontend/Login.png)
